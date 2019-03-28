@@ -1,0 +1,24 @@
+{
+    "root": "./",
+    "title": "oops",
+    "head_title": " - oops",
+    "head_description": "计算机爱好者聚集的地方",
+    "head_keywords": "",
+    "logo": "./images/logo.png",
+
+    "gitbook": ">= 3.0.0",
+
+    "language": "zh-hans",
+
+    "plugins": [
+        "-sharing",
+        "-fontsettings",
+        "-lunr",
+        "-search",
+        "theme-official",
+        "alerts"
+    ],
+    "styles": {
+        "website": "styles/website.css"
+    }
+}
