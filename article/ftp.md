@@ -1,4 +1,4 @@
 # ftp
 
-- http： http://ftp.oops-sdu.cn
-- ftp: ftp.oops-sdu.cn:38
+- http 协议： http://ftp.oops-sdu.cn
+- ftp 协议: ftp://ftp.oops-sdu.cn

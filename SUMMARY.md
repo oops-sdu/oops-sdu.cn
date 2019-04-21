@@ -1,16 +1,7 @@
-# Summary
+#### 山东大学镜像站开始公测了！
 
-* [关于](README.md)
+[http://mirrors.oops-sdu.cn](http://mirrors.oops-sdu.cn)
 
-## 活动
-* [fortnightly party](./article/party.md)
-* [活动记录](./article/活动记录.md)
-
-## 社团事务
-* [章程&财务](./article/章程&财务.md)
-* [加入我们](./article/加入我们.md)
-
-## 资源
-* [ftp](./article/ftp.md)
-* [校内资源](./article/校内资源.md)
-
+> **[danger] 注意**
+>
+> 测试开发中，慎重用于生产环境
