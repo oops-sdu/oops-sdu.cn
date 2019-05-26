@@ -12,6 +12,7 @@
 |主题 |主讲人|时间 |地点 |资源  |海报 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |IoC的思想与实现|施展|2019.4.19 20:30|振声苑 E207|[slide](http://ftp.oops-sdu.cn/oops/slides/IoC%20%E7%9A%84%E6%80%9D%E6%83%B3%E4%B8%8E%E5%AE%9E%E7%8E%B0.pdf)|[png](http://ftp.oops-sdu.cn/oops/%E6%B5%B7%E6%8A%A5/party/IoC%E7%9A%84%E6%80%9D%E6%83%B3%E4%B8%8E%E5%AE%9E%E7%8E%B0.png)|
+|安利大会E1|张开翼/施展/程鲁豫|2019.5.26 20:30|振声院 E207|[slide](http://ftp.oops-sdu.cn/oops/slides/Recommendation_Party_1.pdf)|[png](http://ftp.oops-sdu.cn/oops/%E6%B5%B7%E6%8A%A5/party/Recommendation_Party_1.png)|
 
 
 > **[info] 注意**
