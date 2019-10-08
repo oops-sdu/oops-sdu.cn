@@ -28,7 +28,7 @@ git commit -m 'deploy'
 # git push -f git@github.com:<USERNAME>/<USERNAME>.github.io.git master
 
 # publish to https://<USERNAME>.github.io/<REPO>
-git push -f https://github.com/oops-sdu/mirrors.qd.sdu.edu.cn.git gh-pages
+git push -f https://github.com/oops-sdu/oops-sdu.cn.git master:gh-pages
 
 popd
 popd
