@@ -14,7 +14,7 @@
 .footer-container .copyright {
   text-align: center;
   font-size: 15px;
-  color: #999;
+  color: #34495e;
 }
 .gb-page-header .container .logo img {
   width: auto;
@@ -23,8 +23,8 @@
   margin-top: 0;
 }
 .list-group .list-group-item.active {
-  color: #35b558;
-  border-left: 4px solid #35b558 !important;
+  color: #4f7da4;
+  border-left: 5px solid #4f7da4 !important;
 }
 .gb-markdown table {
   table-layout: auto;

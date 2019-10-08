@@ -2,6 +2,6 @@
 
 [http://mirrors.oops-sdu.cn](http://mirrors.oops-sdu.cn)
 
-> **[danger] 注意**
+> **[warning] For warning**
 >
-> 测试开发中，慎重用于生产环境
+> 2019-10-08：因服务器搬迁，ftp 服务器暂时无法访问，影响此网站所有的外链。

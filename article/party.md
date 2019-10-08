@@ -7,6 +7,19 @@
 时间是每两周的周五晚 20:40，一般会早到一会，大家可以提前去玩。
 
 <br />
+
+#### 2019 下半年日常如下：
+
+|主题 |姓名|时间 |地点 |资源  |海报 |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|暑假外出经历分享|崔晨、张开翼、李云开、张烜、宋振华|2019.10.14 20:40|NULL|NULL|NULL|
+
+
+> **[info] 注意**
+>
+> 上表可能根据情况有变动，以每周的海报信息为准。
+
+
 #### 2019 上半年日常如下：
 
 |主题 |主讲人|时间 |地点 |资源  |海报 |
@@ -14,14 +27,9 @@
 |IoC的思想与实现|施展|2019.4.19 20:30|振声苑 E207|[slide](http://ftp.oops-sdu.cn/oops/slides/IoC%20%E7%9A%84%E6%80%9D%E6%83%B3%E4%B8%8E%E5%AE%9E%E7%8E%B0.pdf)|[png](http://ftp.oops-sdu.cn/oops/%E6%B5%B7%E6%8A%A5/party/IoC%E7%9A%84%E6%80%9D%E6%83%B3%E4%B8%8E%E5%AE%9E%E7%8E%B0.png)|
 |安利大会E1|张开翼/施展/程鲁豫|2019.5.26 20:30|振声院 E207|[slide](http://ftp.oops-sdu.cn/oops/slides/Recommendation_Party_1.pdf)|[png](http://ftp.oops-sdu.cn/oops/%E6%B5%B7%E6%8A%A5/party/Recommendation_Party_1.png)|
 
-
-> **[info] 注意**
->
-> 上表可能根据情况有变动，以每周的海报信息为准。
-
 #### 2018 下半年日程如下：
 
-|主题 |主讲人|时间 |地点 |资源  |海报 |
+| 主题 | 主讲人| 时间 | 地点 | 资源  | 海报 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |函数式编程|崔晨|2018.10.12 20:40|振声苑 E111|[slide](http://ftp.oops-sdu.cn/oops/slides/An%20Introduction%20to%20Functional%20Programming.pdf)|[png](http://ftp.oops-sdu.cn/oops/%E6%B5%B7%E6%8A%A5/party/%E5%87%BD%E6%95%B0%E5%BC%8F%E7%BC%96%E7%A8%8B.png)| 
 |NFC 与校园卡|苏晓斌|2018.10.26 20:40|振声苑 E304|[slide](http://ftp.oops-sdu.cn/oops/slides/NFC%20%E4%B8%8E%E6%A0%A1%E5%9B%AD%E5%8D%A1.pdf)|[png](http://ftp.oops-sdu.cn/oops/%E6%B5%B7%E6%8A%A5/party/NFC%20%E4%B8%8E%E6%A0%A1%E5%9B%AD%E5%8D%A1.png)|  
