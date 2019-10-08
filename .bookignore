@@ -1,0 +1,5 @@
+deploy_to_github_pages.sh
+how_to_use.md
+article/
+.gitignore
+.bookignore
