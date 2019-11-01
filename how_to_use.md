@@ -7,7 +7,7 @@
 2. 注意 article 目录下的文件名中要包含中文，否则不会被 gitbook 编译
 
 ## install
-    npm install gitook-cli -g
+    npm install gitbook-cli -g
 ## dev
     gitbook serve  
 ## build
