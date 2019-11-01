@@ -6,18 +6,18 @@
 
 题目列表：
 
-| 题目           | 出题人           | 出题人联系方式 QQ | 题目链接 |
-| -------------- | ---------------- | ----------------- | -------- |
-| 图吧基佬欢乐多 | SadPencil        | 630251196         |     [url](https://oops-sdu.cn/article/%E7%BA%B3%E6%96%B0_2019/%E9%A2%98%E7%9B%AE%E4%B8%80.html)     |
-| Q 我吧         | suxb201          | -                 |   [url](https://oops-sdu.cn/article/%E7%BA%B3%E6%96%B0_2019/%E9%A2%98%E7%9B%AE%E4%BA%8C.html)       |
-| 简单的 Git     | LinkClinton      | 2224649384        |   [url](https://oops-sdu.cn/article/%E7%BA%B3%E6%96%B0_2019/%E9%A2%98%E7%9B%AE%E4%B8%89.html)       |
-| new ass        | imcy             | 1479389468        |  [url](https://oops-sdu.cn/article/%E7%BA%B3%E6%96%B0_2019/%E9%A2%98%E7%9B%AE%E5%9B%9B.html)        |
-| 网上冲浪       | Yuandiaodiaodiao | -         |    [url](https://oops-sdu.cn/article/%E7%BA%B3%E6%96%B0_2019/%E9%A2%98%E7%9B%AE%E4%BA%94.html)      |
-| 路由器         | SadPencil        | 630251196         |   [url](https://oops-sdu.cn/article/%E7%BA%B3%E6%96%B0_2019/%E9%A2%98%E7%9B%AE%E5%85%AD.html)       |
-| 容器级虚拟化   | SadPencil        | 630251196         |    [url](https://oops-sdu.cn/article/%E7%BA%B3%E6%96%B0_2019/%E9%A2%98%E7%9B%AE%E4%B8%83.html)      |
-| Arch Linux     | SadPencil        | 630251196         |   [url](https://oops-sdu.cn/article/%E7%BA%B3%E6%96%B0_2019/%E9%A2%98%E7%9B%AE%E5%85%AB.html)       |
-| 耳机孔转换线   | SadPencil        | 630251196         |     [url](https://oops-sdu.cn/article/%E7%BA%B3%E6%96%B0_2019/%E9%A2%98%E7%9B%AE%E4%B9%9D.html)     |
-| 找不同         | zhangz5434       | 534794634         |    [url](https://oops-sdu.cn/article/%E7%BA%B3%E6%96%B0_2019/%E9%A2%98%E7%9B%AE%E5%8D%81.html)      |
+| 题目           | 出题人           | 出题人联系方式 QQ | 题目链接 | yzh 给出的参考难度 |
+| -------------- | ---------------- | ----------------- | :--------: | :--------: |
+| 图吧基佬欢乐多 | SadPencil        | 630251196         |     [url](https://oops-sdu.cn/article/%E7%BA%B3%E6%96%B0_2019/%E9%A2%98%E7%9B%AE%E4%B8%80.html)     |     😀     |
+| Q 我吧         | suxb201          | -                 |   [url](https://oops-sdu.cn/article/%E7%BA%B3%E6%96%B0_2019/%E9%A2%98%E7%9B%AE%E4%BA%8C.html)       |   ☹️   |
+| 简单的 Git     | LinkClinton      | 2224649384        |   [url](https://oops-sdu.cn/article/%E7%BA%B3%E6%96%B0_2019/%E9%A2%98%E7%9B%AE%E4%B8%89.html)       |   😀     |
+| new ass        | imcy             | 1479389468        |  [url](https://oops-sdu.cn/article/%E7%BA%B3%E6%96%B0_2019/%E9%A2%98%E7%9B%AE%E5%9B%9B.html)        |  🤔    |
+| 网上冲浪       | Yuandiaodiaodiao | -         |    [url](https://oops-sdu.cn/article/%E7%BA%B3%E6%96%B0_2019/%E9%A2%98%E7%9B%AE%E4%BA%94.html)      |    😀    |
+| 路由器         | SadPencil        | 630251196         |   [url](https://oops-sdu.cn/article/%E7%BA%B3%E6%96%B0_2019/%E9%A2%98%E7%9B%AE%E5%85%AD.html)       |   🤔   |
+| 容器级虚拟化   | SadPencil        | 630251196         |    [url](https://oops-sdu.cn/article/%E7%BA%B3%E6%96%B0_2019/%E9%A2%98%E7%9B%AE%E4%B8%83.html)      |    🤔    |
+| Arch Linux     | SadPencil        | 630251196         |   [url](https://oops-sdu.cn/article/%E7%BA%B3%E6%96%B0_2019/%E9%A2%98%E7%9B%AE%E5%85%AB.html)       |   🤔   |
+| 耳机孔转换线   | SadPencil        | 630251196         |     [url](https://oops-sdu.cn/article/%E7%BA%B3%E6%96%B0_2019/%E9%A2%98%E7%9B%AE%E4%B9%9D.html)     |     😀     |
+| 找不同         | zhangz5434       | 534794634         |    [url](https://oops-sdu.cn/article/%E7%BA%B3%E6%96%B0_2019/%E9%A2%98%E7%9B%AE%E5%8D%81.html)      |    ☹️    |
 
 我们有一个社团开放群，你如果对此次考核安排有什么疑问可以在其中 at 群主、管理员得到解答 ;)
 - 社团开放 QQ 群：895682153
