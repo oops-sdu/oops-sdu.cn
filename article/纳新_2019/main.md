@@ -22,6 +22,7 @@
 | Arch Linux     | SadPencil        | 630251196         |   [url](https://oops-sdu.cn/article/%E7%BA%B3%E6%96%B0_2019/%E9%A2%98%E7%9B%AE%E5%85%AB.html)       |   🤔   |
 | 耳机孔转换线   | SadPencil        | 630251196         |     [url](https://oops-sdu.cn/article/%E7%BA%B3%E6%96%B0_2019/%E9%A2%98%E7%9B%AE%E4%B9%9D.html)     |     😀     |
 | 找不同         | zhangz5434       | 534794634         |    [url](https://oops-sdu.cn/article/%E7%BA%B3%E6%96%B0_2019/%E9%A2%98%E7%9B%AE%E5%8D%81.html)      |    ☹️    |
+| 使用百度 | Yuandiaodiaodiao | 295087430 |   [url](https://oops-sdu.cn/article/%E7%BA%B3%E6%96%B0_2019/题目十一.html)  | 😀 |
 
 
 > **[info] 注意**
@@ -30,4 +31,5 @@
 
 
 我们有一个社团开放群，你如果对此次考核安排有什么疑问可以在其中 at 群主、管理员得到解答 ;)
+
 - 社团开放 QQ 群：895682153
