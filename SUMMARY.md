@@ -2,7 +2,7 @@
 
 * [主页](README.md)
 
-## 社团纳新 2019
+## 社团纳新 2020
 * [纳新规则介绍](./article/纳新_2019/main.md)
 * [题目一：图吧基佬欢乐多](./article/纳新_2019/题目一.md)
 * [题目二：Q 我吧](./article/纳新_2019/题目二.md)
@@ -14,7 +14,7 @@
 * [题目八：Arch Linux](./article/纳新_2019/题目八.md)
 * [题目九：耳机孔转换线](./article/纳新_2019/题目九.md)
 * [题目十：找不同](./article/纳新_2019/题目十.md)
-
+* [题目十一：找不同](./article/纳新_2019/题目十一.md)
 ## 活动
 * [fortnightly party](./article/双周party.md)
 * [安利大会](./article/安利大会.md)
