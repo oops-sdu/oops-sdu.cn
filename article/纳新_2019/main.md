@@ -22,7 +22,7 @@
 | Arch Linux     | SadPencil        | 630251196         |   [url](https://oops-sdu.cn/article/%E7%BA%B3%E6%96%B0_2019/%E9%A2%98%E7%9B%AE%E5%85%AB.html)       |   🤔   |
 | 耳机孔转换线   | SadPencil        | 630251196         |     [url](https://oops-sdu.cn/article/%E7%BA%B3%E6%96%B0_2019/%E9%A2%98%E7%9B%AE%E4%B9%9D.html)     |     😀     |
 | 找不同         | zhangz5434       | 534794634         |    [url](https://oops-sdu.cn/article/%E7%BA%B3%E6%96%B0_2019/%E9%A2%98%E7%9B%AE%E5%8D%81.html)      |    ☹️    |
-| 使用百度 | Yuandiaodiaodiao | 295087430 |   [url](https://oops-sdu.cn/article/%E7%BA%B3%E6%96%B0_2019/题目十一.html)  | 😀 |
+| 使用百度 | YZH | 295087430 |   [url](https://oops-sdu.cn/article/%E7%BA%B3%E6%96%B0_2019/题目十一.html)  | 😀 |
 
 
 > **[info] 注意**
