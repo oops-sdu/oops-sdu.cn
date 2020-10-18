@@ -22,7 +22,7 @@ echo 'oops-sdu.cn' > CNAME
 
 git init
 git add -A
-git commit -m 'deploy'
+git commit -m 'add problem 11'
 
 # publish to https://<USERNAME>.github.io
 # git push -f git@github.com:<USERNAME>/<USERNAME>.github.io.git master
