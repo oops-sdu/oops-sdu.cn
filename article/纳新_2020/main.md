@@ -15,7 +15,7 @@
 | 图吧基佬欢乐多 | SadPencil | 630251196    | [url](https://oops-sdu.cn/article/article/纳新_2020/题目一.html) | 😀 |
 | 家境贫寒卡吧👴 | Xrvitd | 12707292       |   [url](https://oops-sdu.cn/article/纳新_2020/题目二.html)  | 😀 |
 | 简单的 Git    | LinkClinton | 2224649384|   [url](https://oops-sdu.cn/article/纳新_2020/题目三.html)    |   😀     |
-| new ass | imcy  | 1479389468           |  [url](https://oops-sdu.cn/article/纳新_2020/题目四.html)      |  🤔    |
+| Rimdormitory | imcy  | 1479389468           |  [url](https://oops-sdu.cn/article/纳新_2020/题目四.html)      |  🤔    |
 | 网上冲浪       | Yuandiaodiaodiao | -   |    [url](https://oops-sdu.cn/article/纳新_2020/题目五.html)     |    😀    |
 | 路由器 | SadPencil   | 630251196        |   [url](https://oops-sdu.cn/article/纳新_2020/题目六.html)     |   🤔   |
 | 容器级虚拟化 | SadPencil | 630251196      |    [url](https://oops-sdu.cn/article/纳新_2020/题目七.html)    |    🤔    |
