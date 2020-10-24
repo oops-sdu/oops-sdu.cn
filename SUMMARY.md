@@ -16,7 +16,7 @@
 * [题目十：找不同](./article/纳新_2020/题目十.md)
 * [题目十一：使用百度](./article/纳新_2020/题目十一.md)
 * [题目十二：Q 我吧](./article/纳新_2020/题目十二.md)
-* [题目十二：LaTex 公式](./article/纳新_2020/题目十三.md)
+* [题目十三：LaTex 公式](./article/纳新_2020/题目十三.md)
 
 ## 活动
 * [fortnightly party](./article/双周party.md)
