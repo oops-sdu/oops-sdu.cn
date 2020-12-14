@@ -1,4 +1,5 @@
 ## bugs
+1. 请使用nodejs 10.22.0版本
 1. Error: ENOENT: no such file or directory, stat '...'（详见 [issues 55](https://github.com/GitbookIO/gitbook-cli/issues/55)）
 
     解决方法（二选一）：
