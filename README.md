@@ -6,7 +6,7 @@
 
 ## 2019 年 6 月 山东大学镜像站开始公测了！
 
-请访问：[http://mirrors.oops-sdu.cn](http://mirrors.oops-sdu.cn)
+请访问：[https://mirrors.sdu.edu.cn/](https://mirrors.sdu.edu.cn/)
 
 欢迎提供意见以及参与建设。
 
