@@ -14,8 +14,11 @@
 | :---------------: | :--------: | :-------: | :------: | :--: | :----------------------------------------------------------: |
 | BotZone: Ai击剑馆 | CuriousCat | 2021.3.20 | 腾讯会议 | NULL | [png](https://ftp.oops-sdu.cn/oops/posters/botzone%E6%B5%B7%E6%8A%A5.png) |
 |Welcome to CTF| 黄少卿 | 2021.4.5| 振声苑E104+腾讯会议| [markdown](https://ftp.oops-sdu.cn/oops/markdown/CTF总结.md)| [png](https://ftp.oops-sdu.cn/oops/posters/CTF_Fortnight.png) |
-
-
+| SDUOJ微服务架构 |张腾| 2021.4.11| 腾讯会议| [pdf](https://ftp.oops-sdu.cn/oops/slides/SDUOJ%20%EF%BC%88oops%E5%88%86%E4%BA%AB%EF%BC%89.pdf)| [png](https://ftp.oops-sdu.cn/oops/posters/SDUOJ%E5%BE%AE%E6%9C%8D%E5%8A%A1%E6%9E%B6%E6%9E%84.png) |
+| 一颗芯片的诞生--从设计到制造 | 王新预 | 2021.4.25| 腾讯会议| [pptx](https://ftp.oops-sdu.cn/oops/slides/pptx/chip%20design.pptx), [video](https://ftp.oops-sdu.cn/oops/videos/meeting_01.mp4) | [png](https://ftp.oops-sdu.cn/oops/posters/%E4%B8%80%E9%A2%97%E8%8A%AF%E7%89%87%E7%9A%84%E8%AF%9E%E7%94%9F--%E4%BB%8E%E8%AE%BE%E8%AE%A1%E5%88%B0%E5%88%B6%E9%80%A0.png) |
+| Speak like human - NLG | 李德馨 | 2021.5.9| 腾讯会议| [pptx](https://ftp.oops-sdu.cn/oops/slides/pptx/Speak_like_human-NLG-%E6%9D%8E%E5%BE%B7%E9%A6%A8.pptx), [video p1](https://ftp.oops-sdu.cn/oops/videos/Speak_like_human-NLG-%E6%9D%8E%E5%BE%B7%E9%A6%A8_01.mp4), [video_p2](https://ftp.oops-sdu.cn/oops/videos/Speak_like_human-NLG-%E6%9D%8E%E5%BE%B7%E9%A6%A8_02.mp4) | [png](https://ftp.oops-sdu.cn/oops/posters/Speak_like_human-NLG_%E6%9D%8E%E5%BE%B7%E9%A6%A8.png) |
+| 启发式算法与优化问题 | 娄云飞 | 2021.6.5| 腾讯会议| [video](https://ftp.oops-sdu.cn/oops/videos/%E5%90%AF%E5%8F%91%E5%BC%8F%E7%AE%97%E6%B3%95-%E5%A8%84%E4%BA%91%E9%A3%9E-%E5%AE%B9%E5%99%A8%E4%B8%8E%E8%99%9A%E6%8B%9F%E7%BD%91%E7%BB%9C%E9%BD%90%E5%88%92%E4%B8%80-202106.mp4)| [png](https://ftp.oops-sdu.cn/oops/posters/%E5%90%AF%E5%8F%91%E5%BC%8F%E7%AE%97%E6%B3%95%E5%92%8C%E4%BC%98%E5%8C%96%E9%97%AE%E9%A2%98-%E5%A8%84%E4%BA%91%E9%A3%9E-202106.png) |
+| 山大镜像站周边：容器和虚拟网络 | 齐划一 | 2021.6.5| 腾讯会议| [video](https://ftp.oops-sdu.cn/oops/videos/%E5%90%AF%E5%8F%91%E5%BC%8F%E7%AE%97%E6%B3%95-%E5%A8%84%E4%BA%91%E9%A3%9E-%E5%AE%B9%E5%99%A8%E4%B8%8E%E8%99%9A%E6%8B%9F%E7%BD%91%E7%BB%9C%E9%BD%90%E5%88%92%E4%B8%80-202106.mp4)| [png](https://ftp.oops-sdu.cn/oops/posters/%E5%B1%B1%E5%A4%A7%E9%95%9C%E5%83%8F%E7%AB%99%E5%91%A8%E8%BE%B9%E5%AE%B9%E5%99%A8%E5%92%8C%E8%99%9A%E6%8B%9F%E7%BD%91%E7%BB%9C-%E9%BD%90%E5%88%92%E4%B8%80-202107.png) |
 
 #### 2020下半年日常如下：
 
@@ -23,6 +26,7 @@
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |实习经验分享|苏晓斌/徐瑞/苑宗鹤/张腾/李港|2020.11.14|振声苑E102|NULL|NULL|
 #### 2020 上半年活动暂停：
+
 |主题 |姓名|时间 |地点 |资源  |海报 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |-|-|-|-|-|-|
