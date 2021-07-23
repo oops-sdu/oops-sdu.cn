@@ -1,0 +1,583 @@
+
+<!DOCTYPE HTML>
+<html lang="zh-hans" >
+    <head>
+        <meta charset="UTF-8">
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <title>题目六：路由器 - oops</title>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="description" content="计算机爱好者聚集的地方">
+        <meta name="generator" content="GitBook 3.2.3">
+        
+        
+        
+    
+    <link rel="stylesheet" href="../../gitbook/style.css">
+
+    
+            
+                
+                <link rel="stylesheet" href="../../gitbook/gitbook-plugin-alerts/style.css">
+                
+            
+                
+                <link rel="stylesheet" href="../../gitbook/gitbook-plugin-highlight/website.css">
+                
+            
+        
+
+    
+
+    
+        
+        <link rel="stylesheet" href="../../styles/website.css">
+        
+    
+
+        
+    <meta name="keywords" content="">
+    <meta name="HandheldFriendly" content="true">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon">
+    
+    <link rel="stylesheet" href="../../assets/website/page_custom.min.css">
+    
+    <link rel="next" href="题目七.html" />
+    
+    
+    <link rel="prev" href="题目五.html" />
+    
+
+    </head>
+    <body>
+        
+<div class="gb-page-wrapper">
+    <header class="gb-page-header">
+        <div class="container">
+        
+            
+            <a href="../.." class="logo">
+                <!-- <img src="../../images/logo.png"> -->
+                <img src="/images/logo.png"/>
+            </a>
+            
+        
+        </div>
+    </header>
+
+    <div class="gb-page-body">
+        <div class="gb-page-inner">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-3">
+                        
+
+
+
+    
+    <div class="panel panel-default">
+        
+
+        <div class="list-group">
+            
+    
+        
+        <a href="../../" class="list-group-item ">
+        
+
+            
+
+            
+
+            主页
+
+        
+        </a>
+        
+
+        
+    
+
+        </div>
+    </div>
+    
+    <div class="panel panel-default">
+        
+        <div class="panel-heading">
+            <h3 class="panel-title">社团纳新 2020</h3>
+        </div>
+        
+
+        <div class="list-group">
+            
+    
+        
+        <a href="main.html" class="list-group-item ">
+        
+
+            
+
+            
+
+            纳新规则介绍
+
+        
+        </a>
+        
+
+        
+    
+        
+        <a href="题目一.html" class="list-group-item ">
+        
+
+            
+
+            
+
+            题目一：图吧基佬欢乐多
+
+        
+        </a>
+        
+
+        
+    
+        
+        <a href="题目二.html" class="list-group-item ">
+        
+
+            
+
+            
+
+            题目二：家境贫寒卡吧👴
+
+        
+        </a>
+        
+
+        
+    
+        
+        <a href="题目三.html" class="list-group-item ">
+        
+
+            
+
+            
+
+            题目三：简单的 Git
+
+        
+        </a>
+        
+
+        
+    
+        
+        <a href="题目四.html" class="list-group-item ">
+        
+
+            
+
+            
+
+            题目四：Rimdormitory
+
+        
+        </a>
+        
+
+        
+    
+        
+        <a href="题目五.html" class="list-group-item ">
+        
+
+            
+
+            
+
+            题目五：网上冲浪
+
+        
+        </a>
+        
+
+        
+    
+        
+        <a href="题目六.html" class="list-group-item active">
+        
+
+            
+
+            
+
+            题目六：路由器
+
+        
+        </a>
+        
+
+        
+    
+        
+        <a href="题目七.html" class="list-group-item ">
+        
+
+            
+
+            
+
+            题目七：容器级虚拟化
+
+        
+        </a>
+        
+
+        
+    
+        
+        <a href="题目八.html" class="list-group-item ">
+        
+
+            
+
+            
+
+            题目八：Arch Linux
+
+        
+        </a>
+        
+
+        
+    
+        
+        <a href="题目九.html" class="list-group-item ">
+        
+
+            
+
+            
+
+            题目九：耳机孔转换线
+
+        
+        </a>
+        
+
+        
+    
+        
+        <a href="题目十.html" class="list-group-item ">
+        
+
+            
+
+            
+
+            题目十：找不同
+
+        
+        </a>
+        
+
+        
+    
+        
+        <a href="题目十一.html" class="list-group-item ">
+        
+
+            
+
+            
+
+            题目十一：使用百度
+
+        
+        </a>
+        
+
+        
+    
+        
+        <a href="题目十二.html" class="list-group-item ">
+        
+
+            
+
+            
+
+            题目十二：Q 我吧
+
+        
+        </a>
+        
+
+        
+    
+        
+        <a href="题目十三.html" class="list-group-item ">
+        
+
+            
+
+            
+
+            题目十三：LaTex 公式
+
+        
+        </a>
+        
+
+        
+    
+
+        </div>
+    </div>
+    
+    <div class="panel panel-default">
+        
+        <div class="panel-heading">
+            <h3 class="panel-title">活动</h3>
+        </div>
+        
+
+        <div class="list-group">
+            
+    
+        
+        <a href="../双周party.html" class="list-group-item ">
+        
+
+            
+
+            
+
+            fortnightly party
+
+        
+        </a>
+        
+
+        
+    
+        
+        <a href="../安利大会.html" class="list-group-item ">
+        
+
+            
+
+            
+
+            安利大会
+
+        
+        </a>
+        
+
+        
+    
+        
+        <a href="../活动记录.html" class="list-group-item ">
+        
+
+            
+
+            
+
+            活动照片
+
+        
+        </a>
+        
+
+        
+    
+        
+        <a href="../极客出发.html" class="list-group-item ">
+        
+
+            
+
+            
+
+            极客出发
+
+        
+        </a>
+        
+
+        
+    
+
+        </div>
+    </div>
+    
+    <div class="panel panel-default">
+        
+        <div class="panel-heading">
+            <h3 class="panel-title">社团事务</h3>
+        </div>
+        
+
+        <div class="list-group">
+            
+    
+        
+        <a href="../章程&财务.html" class="list-group-item ">
+        
+
+            
+
+            
+
+            章程&财务
+
+        
+        </a>
+        
+
+        
+    
+        
+        <a href="../加入我们.html" class="list-group-item ">
+        
+
+            
+
+            
+
+            加入我们
+
+        
+        </a>
+        
+
+        
+    
+
+        </div>
+    </div>
+    
+    <div class="panel panel-default">
+        
+        <div class="panel-heading">
+            <h3 class="panel-title">资源</h3>
+        </div>
+        
+
+        <div class="list-group">
+            
+    
+        
+        <a href="../社团ftp.html" class="list-group-item ">
+        
+
+            
+
+            
+
+            社团 ftp
+
+        
+        </a>
+        
+
+        
+    
+        
+        <a href="../校内资源.html" class="list-group-item ">
+        
+
+            
+
+            
+
+            校内资源
+
+        
+        </a>
+        
+
+        
+    
+
+        </div>
+    </div>
+    
+
+
+
+                    </div>
+                    <div class="col-md-9">
+                        <!-- page -->
+                        
+                        <div class="gb-markdown book-page-inner page-inner">
+                            <h1 id="&#x8DEF;&#x7531;&#x5668;">&#x8DEF;&#x7531;&#x5668;</h1>
+<blockquote>
+<p><strong>[info] &#x6CE8;&#x610F;</strong></p>
+<p>&#x8DEF;&#x7531;&#x5668;-1 &#x548C; &#x8DEF;&#x7531;&#x5668;-2 &#x4EFB;&#x9009;&#x4E00;&#x9053;&#x5B8C;&#x6210;&#x5373;&#x53EF;&#x5F97;&#x5230;&#x6EE1;&#x5206; 10 &#x5206;&#x3002;&#x5982;&#x679C;&#x90FD;&#x505A;&#xFF0C;&#x603B;&#x5F97;&#x5206;&#x4E0D;&#x8D85;&#x8FC7; 10 &#x5206;&#x3002;</p>
+</blockquote>
+<h2 id="&#x8DEF;&#x7531;&#x5668;-1">&#x8DEF;&#x7531;&#x5668;-1</h2>
+<p>&#x4E0B;&#x8F7D;&#x5E76;&#x5B89;&#x88C5; VMware Workstation &#x6216; VirtualBox&#xFF0C;&#x5176;&#x4E2D; VirtualBox &#x53EF;&#x5728;<a href="https://intranet.mirrors.oops-sdu.cn/software/Windows/VirtualBox/" target="_blank">&#x5C71;&#x4E1C;&#x5927;&#x5B66;&#x955C;&#x50CF;&#x7AD9;</a>&#x4E0B;&#x8F7D;&#x3002;&#x521B;&#x5EFA;&#x4E00;&#x4E2A;&#x65B0;&#x7684;&#x865A;&#x62DF;&#x7F51;&#x7EDC;&#xFF0C;&#x5173;&#x6389;&#x8BE5;&#x7F51;&#x7EDC;&#x7684; DHCP &#x529F;&#x80FD;&#x3002;&#x521B;&#x5EFA;&#x4E00;&#x4E2A;&#x865A;&#x62DF;&#x673A;&#xFF0C;&#x8BE5;&#x865A;&#x62DF;&#x673A;&#x5E94;&#x8BE5;&#x5177;&#x6709;&#x4E24;&#x4E2A;&#x7F51;&#x5361;&#xFF0C;&#x5176;&#x4E2D;&#x4E00;&#x4E2A;&#x63A5;&#x5916;&#x7F51;&#xFF08;&#x901A;&#x8FC7;&#x865A;&#x62DF;&#x673A;&#x63D0;&#x4F9B;&#x7684; NAT&#xFF09;&#xFF0C;&#x53E6;&#x4E00;&#x4E2A;&#x63A5;&#x5165;&#x65B0;&#x5EFA;&#x7684;&#x865A;&#x62DF;&#x7F51;&#x7EDC;&#xFF0C;&#x865A;&#x62DF;&#x673A;&#x8FD0;&#x884C; OpenWRT 18.06.4&#xFF0C;&#x4F5C;&#x4E3A;&#x4E00;&#x4E2A;&#x8DEF;&#x7531;&#x5668;&#xFF0C;&#x4E3A;&#x5176;&#x4ED6;&#x7684;&#x865A;&#x62DF;&#x673A;&#x670D;&#x52A1;&#x3002;</p>
+<p>&#x53E6;&#x5916;&#x65B0;&#x5EFA;&#x4E00;&#x4E2A;&#x865A;&#x62DF;&#x673A;&#xFF0C;&#x63A5;&#x5165;&#x65B0;&#x5EFA;&#x7684;&#x865A;&#x62DF;&#x7F51;&#x7EDC;&#x3002;&#x6253;&#x5F00;&#x4E24;&#x4E2A;&#x6D4F;&#x89C8;&#x5668;&#x7A97;&#x53E3;&#xFF0C;&#x5DE6;&#x8FB9;&#x7684;&#x5C55;&#x793A;&#x8DEF;&#x7531;&#x5668;&#x7684;&#x7BA1;&#x7406;&#x754C;&#x9762;&#xFF0C;&#x53F3;&#x8FB9;&#x7684;&#x6253;&#x5F00;&#x5C71;&#x4E1C;&#x5927;&#x5B66;&#x955C;&#x50CF;&#x7AD9;&#x9996;&#x9875;&#x3002;&#x4E24;&#x4E2A;&#x9875;&#x9762;&#x5DE6;&#x53F3;&#x5E76;&#x6392;&#x663E;&#x793A;&#xFF0C;&#x622A;&#x56FE;&#x3002;</p>
+<ul>
+<li>&#x56DE;&#x7B54;&#xFF1A;&#x6211;&#x4EEC;&#x77E5;&#x9053;&#xFF0C;IPv4 &#x4E0B;&#x8DEF;&#x7531;&#x5668;&#x901A;&#x8FC7; DHCP &#x534F;&#x8BAE;&#x5206;&#x914D; IP &#x5730;&#x5740;&#x3002;&#x7B80;&#x8FF0; IPv6 &#x4E0B;&#x7684; IP &#x5730;&#x5740;&#x5206;&#x914D;&#x65B9;&#x5F0F;&#x6709;&#x54EA;&#x51E0;&#x79CD;&#x3002;&#x5982;&#x6709;&#x53EF;&#x80FD;&#xFF0C;&#x901A;&#x8FC7;&#x8C03;&#x6574; OpenWRT &#x7684;&#x9009;&#x9879;&#x6765;&#x590D;&#x73B0;&#x8FD9;&#x51E0;&#x79CD;&#x65B9;&#x5F0F;&#x3002;</li>
+<li>&#x52A0;&#x5206;&#x9879;&#xFF1A;&#x5728; OpenWRT &#x8DEF;&#x7531;&#x5668;&#x4E0A;&#x5B89;&#x88C5; <a href="https://github.com/SadPencil/sdunetd" target="_blank">sdunetd</a> &#x8F6F;&#x4EF6;&#xFF0C;&#x4EE5;&#x5B9E;&#x73B0;&#x6821;&#x56ED;&#x7F51;&#x8D26;&#x53F7;&#x81EA;&#x52A8;&#x767B;&#x5F55;&#x3002;&#x5B89;&#x88C5;&#x5B8C;&#x6210;&#x540E;&#xFF0C;&#x6CE8;&#x9500;&#x6821;&#x56ED;&#x7F51;&#x8D26;&#x53F7;&#xFF0C;&#x89C2;&#x5BDF;&#x4E00;&#x5206;&#x949F;&#x5185;&#x662F;&#x5426;&#x5DF2;&#x7ECF;&#x91CD;&#x65B0;&#x81EA;&#x52A8;&#x767B;&#x5F55;&#x3002;&#x4F60;&#x5E94;&#x8BE5;&#x786E;&#x4FDD; sdunetd &#x968F; OpenWRT &#x4E00;&#x8D77;&#x542F;&#x52A8;&#xFF0C;&#x6B63;&#x5982;&#x65E5;&#x5E38;&#x751F;&#x6D3B;&#x4E2D;&#x4F1A;&#x9047;&#x5230;&#x505C;&#x7535;&#x4E00;&#x6837;&#x3002;</li>
+</ul>
+<h2 id="&#x8DEF;&#x7531;&#x5668;-2">&#x8DEF;&#x7531;&#x5668;-2</h2>
+<p>&#x914D;&#x7F6E;&#x4E00;&#x4E2A;&#x8DEF;&#x7531;&#x5668;&#xFF08;&#x53EF;&#x4EE5;&#x4E0D;&#x662F;&#x865A;&#x62DF;&#x673A;&#xFF09;&#xFF0C;&#x4F7F;&#x5F97;&#x8BE5;&#x8DEF;&#x7531;&#x5668;&#x5E95;&#x4E0B;&#x7684;&#x8BBE;&#x5907;&#x53EF;&#x4EE5;&#x6253;&#x5F00;&#x5C71;&#x4E1C;&#x5927;&#x5B66;&#x6821;&#x56ED;&#x7F51;&#x7684; IPv6 &#x8D44;&#x6E90;&#x3002;&#x4EE5; ipv6.baidu.com &#x80FD;&#x6B63;&#x5E38;&#x6253;&#x5F00;&#x4E3A;&#x51C6;&#x3002;</p>
+<ul>
+<li>&#x63D0;&#x793A;&#xFF1A;&#x5B57;&#x6570;&#x5C11;&#x7684;&#x9898;&#x76EE;&#xFF0C;&#x96BE;&#x5EA6;&#x53EF;&#x80FD;&#x66F4;&#x5927;&#x3002;</li>
+</ul>
+
+                        </div>
+                        
+                        <!-- page -->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <footer class="gb-page-footer">
+        <div class="container footer-container">
+            <div class="copyright">
+                山东大学(青岛) oops 计算机社团 | build with <a href="https://toolchain.gitbook.com/">GitBook</a>
+            </div>
+        </div>
+    </footer>
+</div>
+
+<script src="../../gitbook/gitbook.js"></script>
+
+    
+    <script src="../../gitbook/gitbook-plugin-alerts/plugin.js"></script>
+    
+
+
+<script>
+    var gitbook = gitbook || [];
+    gitbook.push(function() {
+        gitbook.page.hasChanged({"page":{"title":"题目六：路由器","level":"2.7","depth":1,"next":{"title":"题目七：容器级虚拟化","level":"2.8","depth":1,"path":"article/纳新_2020/题目七.md","ref":"./article/纳新_2020/题目七.md","articles":[]},"previous":{"title":"题目五：网上冲浪","level":"2.6","depth":1,"path":"article/纳新_2020/题目五.md","ref":"./article/纳新_2020/题目五.md","articles":[]},"dir":"ltr"},"config":{"plugins":["-sharing","-fontsettings","-lunr","-search","theme-official","alerts"],"root":"./","styles":{"website":"styles/website.css"},"pluginsConfig":{"alerts":{},"highlight":{},"theme-official":{},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"theme":"default","head_keywords":"","logo":"./images/logo.png","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"variables":{},"title":"oops","language":"zh-hans","head_title":" - oops","gitbook":">= 3.0.0","head_description":"计算机爱好者聚集的地方"},"file":{"path":"article/纳新_2020/题目六.md","mtime":"2021-04-05T15:01:46.898Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2021-07-23T01:32:18.740Z"},"basePath":"../..","book":{"language":""}});
+    });
+</script>
+<script>
+    $('.book-page-inner h1,.book-page-inner h2,.book-page-inner h3,.book-page-inner h4,.book-page-inner h5,.book-page-inner h6').click(function(){
+        var id = $(this).attr('id');
+        if(id) {
+            window.location.hash=id;
+        }
+    });
+</script>
+
+        
+    </body>
+</html>
+
